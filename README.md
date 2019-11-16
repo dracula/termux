@@ -1,20 +1,20 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Termux](https://termux.com/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Termux](https://termux.com/).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/sublime.png)
+![Screenshot](https://raw.githubusercontent.com/benjifs/dracula-termux/master/screenshot.jpg)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+Add the `colors.properties` file in the `~/.termux` directory.
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/term/graphs/contributors).
 
-[![Harrison Heck](https://avatars0.githubusercontent.com/u/1037526?v=3&s=70)](https://github.com/nesl247) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha)
---- | ---
-[Harrison Heck](https://github.com/nesl247) | [Zeno Rocha](https://github.com/zenorocha)
+[![Benji Encalada Mora](https://avatars0.githubusercontent.com/u/4167938?v=3&s=70)](https://github.com/benjifs) |
+--- |
+[Benji Encalada Mora](https://github.com/benjifs) |
 
 ## License
 
