@@ -2,7 +2,7 @@
 
 > A dark theme for [Termux](https://termux.com/).
 
-![Screenshot](https://raw.githubusercontent.com/benjifs/dracula-termux/master/screenshot.jpg)
+![Screenshot](./screenshot.png)
 
 ## Install
 
