@@ -6,7 +6,7 @@
 
 ## Install
 
-Add the `colors.properties` file in the `~/.termux` directory.
+All instructions can be found at [draculatheme.com/termux](https://draculatheme.com/termux).
 
 ## Team
 
